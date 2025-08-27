@@ -6,6 +6,12 @@ In addition to the book marketplace, BookBazaar features an **AI Tutor** 🤖 th
 
 ---
 
+## 🌐 Live Demo  
+
+👉 [BookBazaar Live Deployment](https://book-bazaar-frontend-lilac.vercel.app/)  
+
+---
+
 ## ✨ Features  
 
 - 📖 **Book Marketplace**  
